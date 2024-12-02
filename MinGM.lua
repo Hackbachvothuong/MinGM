@@ -3502,7 +3502,7 @@ I:Seperator("Discord")
 
 I:Label("Mọi Người Đều Tham Gia Giao Lưu")
 I:Button("Copy Discord Link",function()
-setclipboard("https://discord.gg/kzUGUjKv") 
+setclipboard("https://discord.gg/c5EYjcvC") 
 end)
 
 I:Seperator("Thời Gian")
